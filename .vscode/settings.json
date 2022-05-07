@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "[javascrip]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
